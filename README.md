@@ -1,3 +1,8 @@
+English
+-------
+
+For english version refer to docs/readme.eng.txt
+
 Данный bat файл поможет обойти ограничения от AnyDesk
 
 ![image](https://github.com/user-attachments/assets/12a6adb3-affd-40c6-834c-ac03dbda3028)
